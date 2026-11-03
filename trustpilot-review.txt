@@ -10,7 +10,7 @@ The agent initially answered yes when asked whether the restriction was an error
 
 After escalation to a supervisor, there was still no server recovery, data recovery, replacement or credit offered as a remedy. The explanation included: “However, this is how our system works, and it cannot be changed.” The final reply again confirmed that VPS access could not be restored.
 
-The agent was courteous, and I had independently saved some results. But the failure mode remains: account access can return while the VPS stays unrecoverable. If that happened to an important project, the impact would be much greater. This experience leaves me unwilling to take that risk.
+The agent was courteous, and I had independently saved some results. I still expect a provider to preserve a safe way to reverse its own restrictions. Restoring my login did not restore my server. When recovery proved impossible, no alternative remedy was offered either. An internal system limitation left the consequences with me. If the same failure affected an important project, the impact would be much greater. This experience leaves me unwilling to take that risk.
 
 Full chronology and screenshots:
 https://rfc1180.github.io/spaceship-vps-experience-20261103/

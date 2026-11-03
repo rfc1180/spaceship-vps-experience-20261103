@@ -10,6 +10,6 @@ The outcome after verification was clear: my account was accessible again, but m
 
 Some results had already been saved independently. That reduced my loss, but did not give Spaceship a way to restore the original server. The agent was courteous; the recovery outcome remained the same.
 
-What concerns me is this failure mode: an account can be restricted without warning, then restored, while its VPS remains unrecoverable. If that happened to a server holding an important project, the consequences would be much greater. This experience leaves me unwilling to rely on the service for that kind of work.
+I expect a provider to preserve a safe recovery path when it restricts an account. Once the restriction is lifted, the customer should be able to regain their services and data, not just their login. If the provider cannot restore them, there should be a meaningful remedy for the consequences. In my case, neither recovery nor an alternative remedy was offered; the explanation was how the system works. If the same failure affected an important project, the impact would be much greater. This experience leaves me unwilling to take that risk.
 
 *Experience date: 3 November 2026. All chat times are Bangkok time (UTC+7). Updated through the final exchange at 12:50.*
