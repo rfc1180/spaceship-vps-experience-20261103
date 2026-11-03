@@ -1,14 +1,16 @@
-Account verification left my trial VPS unrecoverable
+Account restored. VPS and data unrecoverable.
 
-A security verification check ended with my seven-day trial VPS cancelled. Spaceship restored my account access after verification, but support said it could not restore the server or recover its data.
+My Spaceship account was suddenly restricted without prior warning, within a minute of ordering an additional paid VPS. I could not access my account or server.
 
-I registered on 3 November 2026. Only a few hours into the trial, I ordered an additional paid VPS. Within a minute, my account was restricted.
+I completed the requested verification and regained account access. But my original VPS was not restored. Support said it could not restore the server or recover its data.
 
-The agent initially answered yes when asked whether the restriction was an error. He later explained that automated security checks can temporarily restrict accounts, said this did not mean I was suspected of fraud, and declined to disclose the trigger. He explicitly linked the VPS cancellation to that process. I include both answers in the evidence.
+This happened on 3 November 2026, the day I registered. The original VPS was on a seven-day trial. The account restriction interrupted it after only a few hours.
 
-After checking with a supervisor, support declined to restore the interrupted trial or provide a replacement. The explanation included: “However, this is how our system works, and it cannot be changed.” In the final exchange, the agent again confirmed that VPS access could not be restored.
+The agent initially answered yes when asked whether the restriction was an error. He later explained that automated security screening had triggered verification and linked the VPS cancellation to that process. Both answers are included in the evidence.
 
-The agent was courteous, and some results had already been backed up independently. But there was no practical remedy for the server itself. My concern is why a temporary verification process resulted in cancellation of a VPS that could not be restored, rather than a reversible suspension. That leaves me reluctant to trust the service with an important project.
+After escalation to a supervisor, there was still no server recovery, data recovery, replacement or credit offered as a remedy. The explanation included: “However, this is how our system works, and it cannot be changed.” The final reply again confirmed that VPS access could not be restored.
+
+The agent was courteous, and I had independently saved some results. But the failure mode remains: account access can return while the VPS stays unrecoverable. If that happened to an important project, the impact would be much greater. This experience leaves me unwilling to take that risk.
 
 Full chronology and screenshots:
 https://rfc1180.github.io/spaceship-vps-experience-20261103/
